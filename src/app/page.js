@@ -8,7 +8,10 @@ const images = [
   '/a2.jpg',
   '/a1.jpg',
   '/a4.jpg',
-  '/a5.jpg'
+  '/a5.jpg',
+  '/a6.jpg',
+  '/a7.jpg',
+  '/a8.jpg'
 ];
 
 const Home = () => {
