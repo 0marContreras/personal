@@ -11,7 +11,20 @@ const images = [
   '/a5.jpg',
   '/a6.jpg',
   '/a7.jpg',
-  '/a8.jpg'
+  '/a8.jpg',
+  '/a9.jpg',
+  '/a10.jpg',
+  '/a11.jpg',
+  '/a12.jpg',
+  '/a13.jpg',
+  '/a14.jpg',
+  '/a15.jpg',
+  '/a16.jpg',
+  '/a17.jpg',
+  '/a18.jpg',
+  '/a19.jpg',
+  '/a20.jpg',
+  '/a21.jpg'
 ];
 
 const Home = () => {
